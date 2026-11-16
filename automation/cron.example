@@ -1,0 +1,3 @@
+# loker-apply — cari loker & kirim lamaran tiap pagi kerja (Senin–Jumat 08:00)
+# Pasang dengan: crontab -e, lalu tempel baris ini (sesuaikan path ke folder skill).
+0 8 * * 1-5 /bin/bash /path/ke/loker-apply-skill/automation/run-daily.sh >> /tmp/loker-apply.log 2>&1
