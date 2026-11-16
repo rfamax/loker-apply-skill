@@ -9,7 +9,7 @@ Belum punya CV? Skill ini bisa buatkan dari data profil kamu — 1 halaman A4, r
 ## Install
 
 ```bash
-npx skills add rizqialfahri-create/loker-apply-skill
+npx skills add rfamax/loker-apply-skill
 ```
 
 ## Cara pakai
